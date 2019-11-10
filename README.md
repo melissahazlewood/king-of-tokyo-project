@@ -1,5 +1,5 @@
 # king-of-tokyo-project
-Project for CECS 328 at CSULB.
+Project for CECS 343 at CSULB.
 
 Power Struggle in Paradise: A Reimagining of King of Tokyo
 
