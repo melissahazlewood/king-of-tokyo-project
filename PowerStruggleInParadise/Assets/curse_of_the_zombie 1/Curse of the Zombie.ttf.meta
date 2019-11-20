@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2ab4cbe22b69f7b4f8284fb4774a4bae
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Curse of the Zombie
+  fontNames:
+  - Curse of the Zombie
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0ce56509ff4dd8f4ba78cb3ad0576fc5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
